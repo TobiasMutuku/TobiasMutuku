@@ -4,7 +4,7 @@
                                                                                                                                                                          
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TobiasMutuku&theme=dark&" alt="TobiasMutuku" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TobiasMutuku&theme=dark&show_icons=true&locale=en" alt="jipheens" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TobiasMutuku&theme=dark&show_icons=true&locale=en" alt="TobiasMutuku" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TobiasMutuku&theme=dark&label=Profile%20views&color=0e75b6&style=flat" alt="TobiasMutuku" /> </p>
 
@@ -12,13 +12,17 @@
 
 - 🔭 I’m currently working on ** An ERP System Project**
 
-- 🌱 I’m currently learning **REACT NATIVE**
+- 🌱 I’m currently learning *Js, Vue,Flutter,Springboot*
 
 - 💬 Ask me about **React,Angular,TypeScript,Java Spring Boot, C#.Net**
 
-- 📫 How to reach me **mutukutpbias98@gmail.com** 
+- 📝 I regularly write articles on [https://sculptingmen.com](https://sculptingmen.com)
 
-- 📄 Know about my experiences [https://portfolio-jipheens.vercel.app/](https://portfolio-jipheens.vercel.app/)
+- 📫 How to reach me **mutukutobias98@gmail.com** 
+
+- 👯 I’m looking to collaborate on *E-commerce website*
+
+- ⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*
 
 - ⚡  **hit me up soo we can talk😀😀**
 
