@@ -27,6 +27,9 @@
 
 - ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobiasmutuku&show_icons=true&locale=en&layout=compact" alt="tobiasmutuku" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -36,7 +39,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobiasmutuku" alt="tobiasmutuku" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobiasmutuku&show_icons=true&locale=en&layout=compact" alt="tobiasmutuku" /></p>
+
 
 
 
