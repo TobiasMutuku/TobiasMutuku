@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on **An ERP System Project**
+- 🔭 I am currently working on **An ERP System Project**
 
-- 🌱 I’m currently learning *Js, Vue,Flutter,Springboot*
+- 🌱 I am currently learning *Js, Vue,Flutter,Springboot*
 
 - 💬 Ask me about **Angular,TypeScript,Java Spring Boot, C#.Net**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mutukutobias98@gmail.com** 
 
-- 👯 I’m looking to collaborate on *E-commerce website*
+- 👯 I am looking to collaborate on *E-commerce website*
 
 - ⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*
 
