@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mutukutobias98@gmail.com** 
 
-- 👯 I am looking to collaborate on *E-commerce website*
+- 👯 I am looking to collaborate on *Document Management System*
 
 - ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
