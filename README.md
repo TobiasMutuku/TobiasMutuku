@@ -26,8 +26,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/tobias-mutuku-0675881a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TobiasMutuku" height="30" width="40"/></a>
 </p>
+<h3 align="left">Achievements:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TobiasMutuku&theme=dark&" alt="TobiasMutuku"/></a></p>
-
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=TobiasMutuku&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
