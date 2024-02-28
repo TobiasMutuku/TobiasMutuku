@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Tobias Mutuku" />
+</h1>
 <h1 align="center">Hello Guys, 👋 I am Tobias</h1>
 <h3 align="center"> I am a passionate  Frontend Developer from Nairobi Kenya. +254 🇰🇪</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=TobiasMutuku&theme=dark&label=Profile%20views&color=0e75b6&style=flat" alt="TobiasMutuku"/></p>
