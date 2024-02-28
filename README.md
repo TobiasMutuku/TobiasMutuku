@@ -1,9 +1,4 @@
-<h1 align="center">Hello Guys, 👋 I am Tobias</h1>
-<p align="left">
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=text&text=I am %20Tobias&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
-</a>
-</p> 
+<h1 align="center">Hello Guys, 👋 I am Tobias</h1> 
 <h3 align="center"> I am a passionate  Frontend Developer from Nairobi Kenya. +254 🇰🇪</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=TobiasMutuku&theme=dark&label=Profile%20views&color=0e75b6&style=flat" alt="TobiasMutuku"/></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=TobiasMutuku&theme=dark&show_icons=true&locale=en&layout=compact" alt="TobiasMutuku"/></p>
