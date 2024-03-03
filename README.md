@@ -6,7 +6,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TobiasMutuku&theme=dark&show_icons=true&locale=en" alt="TobiasMutuku"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafi0101&theme=gruvbox"/></p> 
 
-
 - 🔭 I am currently working on **Contract Management System**
 
 - 🌱 I am currently learning **C#.Net,Flutter, React**
@@ -22,7 +21,6 @@
 - 👯 I am looking to collaborate on **Document Management System**
 
 - ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
 
 <h3 align="left">Lets  Connect:</h3>
 <p align="left">
